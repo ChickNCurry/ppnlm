@@ -1,0 +1,7 @@
+with omp:
+with storing deltas: 4203, 4273, 4218 (avg: 4231)
+without storing deltas: 5131, 5227, 5382 (avg: 5247)
+
+without omp:
+with storing deltas: 27457, 27301, 27290 (avg: 27349)
+without storing deltas: 35268, 34820, 35031 (avg: 35040)
